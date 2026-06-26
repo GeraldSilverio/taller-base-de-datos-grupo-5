@@ -71,20 +71,12 @@ TiendaOnlineDb/
 │   ├── 01_creacion_base_datos_y_tablas.sql
 │   ├── 02_seguridad_roles_permisos.sql
 │   ├── 03_insertar_datos_prueba.sql
-│   ├── 04_eliminar_datos_prueba.sql
-│   ├── 05_consultas_complejas.sql
-│   ├── 06_optimizacion_indices.sql
-│   ├── 07_respaldo_completo.sql
-│   └── 08_validaciones.sql
+│   ├── 04_consultas_complejas.sql
+│   ├── 05_optimizacion_indices.sql
+│   ├── 06_respaldo_completo.sql
 │
 ├── diagramas/
 │   └── Diagrama_ER_TiendaOnlineDb.pdf
-│
-├── evidencias/
-│   ├── consultas_resultados.png
-│   ├── plan_ejecucion_antes.png
-│   ├── plan_ejecucion_despues.png
-│   └── backup_generado.png
 │
 └── backup/
     └── TiendaOnlineDb_BackupCompleto.bak
